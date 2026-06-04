@@ -2,6 +2,7 @@
 
 🎮 遊戲畫面
 <img src="/Assets/_Project/Gif/夾取.gif" width="380"/>
+
 📺 串接廣告SDK
 <img src="/Assets/_Project/Gif/廣告.gif" width="380"/>
 
@@ -63,12 +64,12 @@
 <img src="/Assets/_Project/Images/畫面3.png" width="380"/>
 
 📺 廣告展示
-<img src="/Assets/_Project/Images/廣告1.png" width="380"/>
-<img src="/Assets/_Project/Images/廣告2.png" width="380"/>
+<img src="/Assets/_Project/Images/廣告1.png" width="360"/>
+<img src="/Assets/_Project/Images/廣告2.png" width="360"/>
 
 💾 紀錄狀態與隨機生成機制
-<img src="/Assets/_Project/Images/狀態1.png" width="380"/>
-<img src="/Assets/_Project/Images/狀態2.png" width="380"/>
+<img src="/Assets/_Project/Images/狀態1.png" width="360"/>
+<img src="/Assets/_Project/Images/狀態2.png" width="360"/>
 
 ---
 
