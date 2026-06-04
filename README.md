@@ -1,9 +1,9 @@
 # 🐾 Animal Claw Master
 
-🎮 遊戲畫面
+🎮 遊戲畫面  
 <img src="/Assets/_Project/Gif/夾取.gif" width="380"/>
 
-📺 串接廣告SDK
+📺 串接廣告SDK  
 <img src="/Assets/_Project/Gif/廣告.gif" width="380"/>
 
 一款使用 Unity 製作的休閒風夾娃娃機遊戲 Prototype。  
