@@ -38,17 +38,14 @@ public class ClawController : MonoBehaviour
     public TextMeshProUGUI coinText; 
     private int coinCount = 0;       
 
-    // ───【手機版新增：按鈕狀態旗標】───
     private bool isPressingLeft = false;
     private bool isPressingRight = false;
 
-    // ───【機台狀態新增：用於呼叫檯面儲存】───
     [Header("機台管理器")]
     public MachineManager machineManager;
 
     void Start()
     {
-        // 遊戲開始時，先讀取之前本機儲存的金幣紀錄
         LoadGameData();
         UpdateCoinUI();
     }
@@ -84,15 +81,12 @@ public class ClawController : MonoBehaviour
 
     // ───【手機版：提供給 UI 呼叫的方法】───
 
-    // 當滑鼠/手指 按下左鍵時呼叫
     public void PointerDownLeft() { isPressingLeft = true; }
     public void PointerUpLeft() { isPressingLeft = false; }
 
-    // 當滑鼠/手指 按下右鍵時呼叫
     public void PointerDownRight() { isPressingRight = true; }
     public void PointerUpRight() { isPressingRight = false; }
 
-    // 當點擊「抓」按鈕時呼叫
     public void TriggerGrab()
     {
         if (!isMoving)
