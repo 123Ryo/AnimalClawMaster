@@ -4,7 +4,7 @@
 <img src="/Assets/_Project/Gif/夾取.gif" width="380"/>
 
 📺 串接廣告SDK  
-<img src="/Assets/_Project/Gif/廣告.gif" width="380"/>
+<img src="/Assets/_Project/Gif/廣告 (1).gif" width="380"/>
 
 一款使用 Unity 製作的休閒風夾娃娃機遊戲 Prototype。  
 玩家操作夾子抓取轉蛋，打開後獲得不同的動物模型，並逐步收集圖鑑內容。
@@ -63,11 +63,11 @@
 🐶 成功抓取並獲得動物模型  
 <img src="/Assets/_Project/Images/畫面3.png" width="380"/>
 
-📺 廣告展示
+📺 廣告畫面  
 <img src="/Assets/_Project/Images/廣告1.png" width="360"/>
 <img src="/Assets/_Project/Images/廣告2.png" width="360"/>
 
-💾 紀錄狀態與隨機生成機制
+💾 紀錄狀態與隨機生成機制  
 <img src="/Assets/_Project/Images/狀態1.png" width="360"/>
 <img src="/Assets/_Project/Images/狀態2.png" width="360"/>
 
